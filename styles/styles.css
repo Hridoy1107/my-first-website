@@ -1,0 +1,17 @@
+.div{
+    background-color: aquamarine;
+    border: 20px solid brown;
+    padding: 20px;
+    margin: 20px;
+}
+.heading{
+    font-style: italic;
+}
+.para{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.list{
+    font-size: larger;
+    font-family: fantasy;
+    color: blue;
+}
